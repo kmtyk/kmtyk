@@ -1,8 +1,14 @@
-<center>
-  <strong>✨Japanese student creator, Yuki💻</strong> 
-  
-  I'm 14 y/o creator. Who likes playing table tennis.
-</center>
+# Yuki Kamata
+## Info
+***Location*** Japan
 
-## Work
-- making a game
+***Age*** 14
+
+***Skill*** JavaScript/PHP/Python/C(#, ++)/VBA
+
+## Accounts
+***AtCoder*** https://atcoder.jp/users/kmtyk
+
+***Mail*** kmtyk@f5.si
+
+***keybase*** https://keybase.io/kmtyk
