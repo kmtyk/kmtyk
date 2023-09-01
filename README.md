@@ -1,18 +1,13 @@
 # Yuki Kamata
-## Info
-***Location*** Japan
-
-***Age*** 14
-
-***Skill*** JavaScript/PHP/Python/C(#, ++)/VBA
-
-## Accounts
-***AtCoder*** https://atcoder.jp/users/kmtyk
-
-***Mail*** kmtyk@f5.si
-
-***keybase*** https://keybase.io/kmtyk
-
-***Glitch*** https://glitch.com/@kmtyk
-
-***MojaCoder*** https://mojacoder.app/users/kmtyk
+```js
+const name = "鎌田 優輝";
+let age = 14;
+let description = "サイバーセキュリティに興味があるJavaScript使い。最近はサーバーサイドに浮気中。";
+let skills = [
+  "JavaScript",
+  "PHP",
+  "Python",
+  "C",
+  "C#"
+];
+```
