@@ -7,5 +7,11 @@ I'm Yuki Kamata.Please call me Yuki.
 - I like programming.
 ## Links
 - Discord: kmtyk
+## Skills
+- JavaScript
+- C(#, ++)
+- Python
+- PHP
+- VBA
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=kmtyk&count_private=true&theme=blueberry)<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmtyk)](https://github.com/anuraghazra/github-readme-stats)-->
