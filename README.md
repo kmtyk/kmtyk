@@ -1,6 +1,6 @@
 ## Hi there
 Hello.I'm Yuki Kamata, aka Yuki. My birthday is October first.
-<br>I've been a scratcher since 2020 and a web developer since 2021.
+<br>I've been a Atcoderer since 2023 and a web developer since 2021.
 <br>My favorite novel is "Nicole no tou" written by Kaori Komori. It's beautifully expressed and varied. I hope you all enjoy it as well.
 <br>I'm a little known fan of YOASOBI, I've been playing tabletennis since when I was 12 y/o.
 <br>I'm a LaTex user. I basically write mathematical expressions in LaTex. I'm learning Esperanto and English, which are considered universal languages.
